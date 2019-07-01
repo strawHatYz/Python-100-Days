@@ -35,11 +35,6 @@
 
 下图显示了主要城市Python招聘需求量及薪资待遇排行榜（截止到2018年5月）。
 
-![Python招聘需求及薪资待遇Top 10](./res/python-top-10.png)
-
-![](./res/python-bj-salary.png)
-
-![](./res/python-salary-chengdu.png)
 
 给初学者的几个建议：
 
